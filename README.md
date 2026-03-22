@@ -83,8 +83,7 @@ adstelo.grammy({
 })
 ```
 
-- `cooldownSeconds` default: `2`
-- `baseUrl` default: `https://sdk.adstelo.com`
+- `cooldownSeconds` default: `2` 
 
 ## Troubleshooting
 
