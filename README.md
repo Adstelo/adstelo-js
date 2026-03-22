@@ -60,18 +60,7 @@ bot.launch();
 
 - The sdk does not in any way broadcast any private information about the user conversations and the environment credentials over the network.  We only require you to pass your bot_secret and adstelo_api_key that you obtain from our official website. 
 
-## Events Sent
-
-The SDK infers event types from incoming updates:
-
-- `message` (default)
-- `photo`
-- `video`
-- `sticker`
-- `media` (animations)
-- `button` (callback queries)
-- `inline_query`
-
+ 
 ## Configuration
 
 ```ts
